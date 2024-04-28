@@ -1,0 +1,1364 @@
+[
+    {
+        "image_id": 143,
+        "question": "What color is the tip of the birds' tails?",
+        "question_id": 143000,
+        "image_name": "COCO_val2014_000000000143.jpg"
+    },
+    {
+        "image_id": 143,
+        "question": "How many birds are in the tree?",
+        "question_id": 143001,
+        "image_name": "COCO_val2014_000000000143.jpg"
+    },
+    {
+        "image_id": 143,
+        "question": "Who many birds are black?",
+        "question_id": 143002,
+        "image_name": "COCO_val2014_000000000143.jpg"
+    },
+    {
+        "image_id": 9275,
+        "question": "Is 11:34 am too early to be drinking margaritas?",
+        "question_id": 9275000,
+        "image_name": "COCO_val2014_000000009275.jpg"
+    },
+    {
+        "image_id": 9275,
+        "question": "Who is drinking?",
+        "question_id": 9275001,
+        "image_name": "COCO_val2014_000000009275.jpg"
+    },
+    {
+        "image_id": 9275,
+        "question": "What color is the cooler?",
+        "question_id": 9275002,
+        "image_name": "COCO_val2014_000000009275.jpg"
+    },
+    {
+        "image_id": 271424,
+        "question": "When did Snowboarding become an Olympic sport?",
+        "question_id": 271424000,
+        "image_name": "COCO_val2014_000000271424.jpg"
+    },
+    {
+        "image_id": 271424,
+        "question": "What are three people in the picture wearing on their feet?",
+        "question_id": 271424001,
+        "image_name": "COCO_val2014_000000271424.jpg"
+    },
+    {
+        "image_id": 271424,
+        "question": "Have all of the people been skiing?",
+        "question_id": 271424002,
+        "image_name": "COCO_val2014_000000271424.jpg"
+    },
+    {
+        "image_id": 271424,
+        "question": "Is there snow on the ground?",
+        "question_id": 271424003,
+        "image_name": "COCO_val2014_000000271424.jpg"
+    },
+    {
+        "image_id": 417055,
+        "question": "What time is it?",
+        "question_id": 417055000,
+        "image_name": "COCO_val2014_000000417055.jpg"
+    },
+    {
+        "image_id": 417055,
+        "question": "Is it morning or night?",
+        "question_id": 417055001,
+        "image_name": "COCO_val2014_000000417055.jpg"
+    },
+    {
+        "image_id": 417055,
+        "question": "How many clocks are there?",
+        "question_id": 417055002,
+        "image_name": "COCO_val2014_000000417055.jpg"
+    },
+    {
+        "image_id": 278967,
+        "question": "Is the person wet?",
+        "question_id": 278967000,
+        "image_name": "COCO_val2014_000000278967.jpg"
+    },
+    {
+        "image_id": 278967,
+        "question": "How many people are in the photo?",
+        "question_id": 278967001,
+        "image_name": "COCO_val2014_000000278967.jpg"
+    },
+    {
+        "image_id": 278967,
+        "question": "What is she doing?",
+        "question_id": 278967002,
+        "image_name": "COCO_val2014_000000278967.jpg"
+    },
+    {
+        "image_id": 410375,
+        "question": "Is the phone on?",
+        "question_id": 410375000,
+        "image_name": "COCO_val2014_000000410375.jpg"
+    },
+    {
+        "image_id": 410375,
+        "question": "Could more than one of these objects be used to tell time?",
+        "question_id": 410375001,
+        "image_name": "COCO_val2014_000000410375.jpg"
+    },
+    {
+        "image_id": 410375,
+        "question": "What color is the purse?",
+        "question_id": 410375002,
+        "image_name": "COCO_val2014_000000410375.jpg"
+    },
+    {
+        "image_id": 410375,
+        "question": "What are these most likely the contents of?",
+        "question_id": 410375003,
+        "image_name": "COCO_val2014_000000410375.jpg"
+    },
+    {
+        "image_id": 281534,
+        "question": "How many of the benches have people sitting on it?",
+        "question_id": 281534000,
+        "image_name": "COCO_val2014_000000281534.jpg"
+    },
+    {
+        "image_id": 281534,
+        "question": "What is the man doing while sitting on the bench?",
+        "question_id": 281534001,
+        "image_name": "COCO_val2014_000000281534.jpg"
+    },
+    {
+        "image_id": 281534,
+        "question": "Is someone sitting?",
+        "question_id": 281534002,
+        "image_name": "COCO_val2014_000000281534.jpg"
+    },
+    {
+        "image_id": 281534,
+        "question": "Is this man sitting by himself?",
+        "question_id": 281534003,
+        "image_name": "COCO_val2014_000000281534.jpg"
+    },
+    {
+        "image_id": 281534,
+        "question": "Is there anyone sitting on the bench?",
+        "question_id": 281534004,
+        "image_name": "COCO_val2014_000000281534.jpg"
+    },
+    {
+        "image_id": 281534,
+        "question": "What is the mood of the picture?",
+        "question_id": 281534005,
+        "image_name": "COCO_val2014_000000281534.jpg"
+    },
+    {
+        "image_id": 151962,
+        "question": "Where is the reflection?",
+        "question_id": 151962000,
+        "image_name": "COCO_val2014_000000151962.jpg"
+    },
+    {
+        "image_id": 151962,
+        "question": "Is the dog as close to the camera as far away as he appears?",
+        "question_id": 151962001,
+        "image_name": "COCO_val2014_000000151962.jpg"
+    },
+    {
+        "image_id": 151962,
+        "question": "Are the windows open?",
+        "question_id": 151962002,
+        "image_name": "COCO_val2014_000000151962.jpg"
+    },
+    {
+        "image_id": 283748,
+        "question": "How many birds are in this scene?",
+        "question_id": 283748000,
+        "image_name": "COCO_val2014_000000283748.jpg"
+    },
+    {
+        "image_id": 283748,
+        "question": "Is there anything in the water?",
+        "question_id": 283748001,
+        "image_name": "COCO_val2014_000000283748.jpg"
+    },
+    {
+        "image_id": 283748,
+        "question": "What position is the human in?",
+        "question_id": 283748002,
+        "image_name": "COCO_val2014_000000283748.jpg"
+    },
+    {
+        "image_id": 283748,
+        "question": "Are there clouds in the sky?",
+        "question_id": 283748003,
+        "image_name": "COCO_val2014_000000283748.jpg"
+    },
+    {
+        "image_id": 283748,
+        "question": "Is this  a city?",
+        "question_id": 283748004,
+        "image_name": "COCO_val2014_000000283748.jpg"
+    },
+    {
+        "image_id": 283748,
+        "question": "Is there clouds in the sky?",
+        "question_id": 283748005,
+        "image_name": "COCO_val2014_000000283748.jpg"
+    },
+    {
+        "image_id": 283748,
+        "question": "Would it be dangerous to fly a plane in the sky right now?",
+        "question_id": 283748006,
+        "image_name": "COCO_val2014_000000283748.jpg"
+    },
+    {
+        "image_id": 283748,
+        "question": "What is the weather?",
+        "question_id": 283748007,
+        "image_name": "COCO_val2014_000000283748.jpg"
+    },
+    {
+        "image_id": 283748,
+        "question": "What is in the water?",
+        "question_id": 283748008,
+        "image_name": "COCO_val2014_000000283748.jpg"
+    },
+    {
+        "image_id": 283748,
+        "question": "How many people are there?",
+        "question_id": 283748009,
+        "image_name": "COCO_val2014_000000283748.jpg"
+    },
+    {
+        "image_id": 283748,
+        "question": "Are there trees visible?",
+        "question_id": 283748010,
+        "image_name": "COCO_val2014_000000283748.jpg"
+    },
+    {
+        "image_id": 283748,
+        "question": "What time of day is it?",
+        "question_id": 283748011,
+        "image_name": "COCO_val2014_000000283748.jpg"
+    },
+    {
+        "image_id": 283748,
+        "question": "Who took the picture?",
+        "question_id": 283748012,
+        "image_name": "COCO_val2014_000000283748.jpg"
+    },
+    {
+        "image_id": 283748,
+        "question": "Are there any clouds?",
+        "question_id": 283748013,
+        "image_name": "COCO_val2014_000000283748.jpg"
+    },
+    {
+        "image_id": 154053,
+        "question": "Is the dog walking on the man's right or his left?",
+        "question_id": 154053000,
+        "image_name": "COCO_val2014_000000154053.jpg"
+    },
+    {
+        "image_id": 154053,
+        "question": "What is attached to the dog?",
+        "question_id": 154053001,
+        "image_name": "COCO_val2014_000000154053.jpg"
+    },
+    {
+        "image_id": 154053,
+        "question": "Is this man rich?",
+        "question_id": 154053002,
+        "image_name": "COCO_val2014_000000154053.jpg"
+    },
+    {
+        "image_id": 154053,
+        "question": "Is the dog considered small breed?",
+        "question_id": 154053003,
+        "image_name": "COCO_val2014_000000154053.jpg"
+    },
+    {
+        "image_id": 154053,
+        "question": "What is he holding in his hands?",
+        "question_id": 154053004,
+        "image_name": "COCO_val2014_000000154053.jpg"
+    },
+    {
+        "image_id": 416700,
+        "question": "Did he miss the tennis ball?",
+        "question_id": 416700000,
+        "image_name": "COCO_val2014_000000416700.jpg"
+    },
+    {
+        "image_id": 416700,
+        "question": "Is it in a park?",
+        "question_id": 416700001,
+        "image_name": "COCO_val2014_000000416700.jpg"
+    },
+    {
+        "image_id": 416700,
+        "question": "What is this man playing?",
+        "question_id": 416700002,
+        "image_name": "COCO_val2014_000000416700.jpg"
+    },
+    {
+        "image_id": 157365,
+        "question": "Is the person wearing shorts?",
+        "question_id": 157365000,
+        "image_name": "COCO_val2014_000000157365.jpg"
+    },
+    {
+        "image_id": 157365,
+        "question": "What is the pattern of the man's shirt?",
+        "question_id": 157365001,
+        "image_name": "COCO_val2014_000000157365.jpg"
+    },
+    {
+        "image_id": 157365,
+        "question": "What is the man doing?",
+        "question_id": 157365002,
+        "image_name": "COCO_val2014_000000157365.jpg"
+    },
+    {
+        "image_id": 157365,
+        "question": "Is he self-conscious about going bald?",
+        "question_id": 157365003,
+        "image_name": "COCO_val2014_000000157365.jpg"
+    },
+    {
+        "image_id": 157365,
+        "question": "Is the man wearing a hat?",
+        "question_id": 157365004,
+        "image_name": "COCO_val2014_000000157365.jpg"
+    },
+    {
+        "image_id": 550980,
+        "question": "Is the engine of the black train on?",
+        "question_id": 550980000,
+        "image_name": "COCO_val2014_000000550980.jpg"
+    },
+    {
+        "image_id": 550980,
+        "question": "What color the men wearing?",
+        "question_id": 550980001,
+        "image_name": "COCO_val2014_000000550980.jpg"
+    },
+    {
+        "image_id": 550980,
+        "question": "Are the men dressed nicely?",
+        "question_id": 550980002,
+        "image_name": "COCO_val2014_000000550980.jpg"
+    },
+    {
+        "image_id": 550980,
+        "question": "What emotional expression is the man showing?",
+        "question_id": 550980003,
+        "image_name": "COCO_val2014_000000550980.jpg"
+    },
+    {
+        "image_id": 550980,
+        "question": "What is the human in the image doing?",
+        "question_id": 550980004,
+        "image_name": "COCO_val2014_000000550980.jpg"
+    },
+    {
+        "image_id": 550980,
+        "question": "Are the men young?",
+        "question_id": 550980005,
+        "image_name": "COCO_val2014_000000550980.jpg"
+    },
+    {
+        "image_id": 550980,
+        "question": "What kind of vehicle are the men in?",
+        "question_id": 550980006,
+        "image_name": "COCO_val2014_000000550980.jpg"
+    },
+    {
+        "image_id": 552156,
+        "question": "Where is the hydrant?",
+        "question_id": 552156000,
+        "image_name": "COCO_val2014_000000552156.jpg"
+    },
+    {
+        "image_id": 552156,
+        "question": "What color is the sign?",
+        "question_id": 552156001,
+        "image_name": "COCO_val2014_000000552156.jpg"
+    },
+    {
+        "image_id": 552156,
+        "question": "Is this a densely populated area?",
+        "question_id": 552156002,
+        "image_name": "COCO_val2014_000000552156.jpg"
+    },
+    {
+        "image_id": 30796,
+        "question": "What is the city name on the bus?",
+        "question_id": 30796000,
+        "image_name": "COCO_val2014_000000030796.jpg"
+    },
+    {
+        "image_id": 30796,
+        "question": "Is this a bus seen in America?",
+        "question_id": 30796001,
+        "image_name": "COCO_val2014_000000030796.jpg"
+    },
+    {
+        "image_id": 30796,
+        "question": "What kind of traveler would appreciate the advertisement on the bus?",
+        "question_id": 30796002,
+        "image_name": "COCO_val2014_000000030796.jpg"
+    },
+    {
+        "image_id": 5146,
+        "question": "How many horses?",
+        "question_id": 5146000,
+        "image_name": "COCO_val2014_000000005146.jpg"
+    },
+    {
+        "image_id": 5146,
+        "question": "Is there a barn?",
+        "question_id": 5146001,
+        "image_name": "COCO_val2014_000000005146.jpg"
+    },
+    {
+        "image_id": 5146,
+        "question": "What hairstyle can be created with the calf's tail?",
+        "question_id": 5146002,
+        "image_name": "COCO_val2014_000000005146.jpg"
+    },
+    {
+        "image_id": 5146,
+        "question": "What color is the horse on the left?",
+        "question_id": 5146003,
+        "image_name": "COCO_val2014_000000005146.jpg"
+    },
+    {
+        "image_id": 5146,
+        "question": "What color is the horse?",
+        "question_id": 5146004,
+        "image_name": "COCO_val2014_000000005146.jpg"
+    },
+    {
+        "image_id": 166482,
+        "question": "Is this a bookstore?",
+        "question_id": 166482000,
+        "image_name": "COCO_val2014_000000166482.jpg"
+    },
+    {
+        "image_id": 166482,
+        "question": "What color is the floor tile?",
+        "question_id": 166482001,
+        "image_name": "COCO_val2014_000000166482.jpg"
+    },
+    {
+        "image_id": 166482,
+        "question": "How many seats can be seen?",
+        "question_id": 166482002,
+        "image_name": "COCO_val2014_000000166482.jpg"
+    },
+    {
+        "image_id": 302110,
+        "question": "Are the blinds vertical or horizontal design?",
+        "question_id": 302110000,
+        "image_name": "COCO_val2014_000000302110.jpg"
+    },
+    {
+        "image_id": 302110,
+        "question": "What is the cat doing?",
+        "question_id": 302110001,
+        "image_name": "COCO_val2014_000000302110.jpg"
+    },
+    {
+        "image_id": 302110,
+        "question": "What holiday does the little plate represent?",
+        "question_id": 302110002,
+        "image_name": "COCO_val2014_000000302110.jpg"
+    },
+    {
+        "image_id": 173514,
+        "question": "What are the people doing?",
+        "question_id": 173514000,
+        "image_name": "COCO_val2014_000000173514.jpg"
+    },
+    {
+        "image_id": 173514,
+        "question": "Is the individual skiing or snowboarding?",
+        "question_id": 173514001,
+        "image_name": "COCO_val2014_000000173514.jpg"
+    },
+    {
+        "image_id": 173514,
+        "question": "Is the person at the top or bottom of the mountain?",
+        "question_id": 173514002,
+        "image_name": "COCO_val2014_000000173514.jpg"
+    },
+    {
+        "image_id": 173514,
+        "question": "What is this person doing?",
+        "question_id": 173514003,
+        "image_name": "COCO_val2014_000000173514.jpg"
+    },
+    {
+        "image_id": 173514,
+        "question": "Is the person moving?",
+        "question_id": 173514004,
+        "image_name": "COCO_val2014_000000173514.jpg"
+    },
+    {
+        "image_id": 173514,
+        "question": "Is it cloudy?",
+        "question_id": 173514005,
+        "image_name": "COCO_val2014_000000173514.jpg"
+    },
+    {
+        "image_id": 43092,
+        "question": "Is the owner of this desk fond of the Windows operating system?",
+        "question_id": 43092000,
+        "image_name": "COCO_val2014_000000043092.jpg"
+    },
+    {
+        "image_id": 43092,
+        "question": "Is this person having a snack?",
+        "question_id": 43092001,
+        "image_name": "COCO_val2014_000000043092.jpg"
+    },
+    {
+        "image_id": 43092,
+        "question": "Is there a font on the desk?",
+        "question_id": 43092002,
+        "image_name": "COCO_val2014_000000043092.jpg"
+    },
+    {
+        "image_id": 43092,
+        "question": "How many computers are there?",
+        "question_id": 43092003,
+        "image_name": "COCO_val2014_000000043092.jpg"
+    },
+    {
+        "image_id": 43092,
+        "question": "What color is the keyboard?",
+        "question_id": 43092004,
+        "image_name": "COCO_val2014_000000043092.jpg"
+    },
+    {
+        "image_id": 43092,
+        "question": "What is the design on the mug?",
+        "question_id": 43092005,
+        "image_name": "COCO_val2014_000000043092.jpg"
+    },
+    {
+        "image_id": 43092,
+        "question": "Is the monitor on?",
+        "question_id": 43092006,
+        "image_name": "COCO_val2014_000000043092.jpg"
+    },
+    {
+        "image_id": 43092,
+        "question": "Is there an empty glass on the desk?",
+        "question_id": 43092007,
+        "image_name": "COCO_val2014_000000043092.jpg"
+    },
+    {
+        "image_id": 43092,
+        "question": "How many keyboards are there?",
+        "question_id": 43092008,
+        "image_name": "COCO_val2014_000000043092.jpg"
+    },
+    {
+        "image_id": 43092,
+        "question": "How many pens are there on the desk?",
+        "question_id": 43092009,
+        "image_name": "COCO_val2014_000000043092.jpg"
+    },
+    {
+        "image_id": 43092,
+        "question": "What color is the mouse?",
+        "question_id": 43092010,
+        "image_name": "COCO_val2014_000000043092.jpg"
+    },
+    {
+        "image_id": 306688,
+        "question": "What kind of pizza is that?",
+        "question_id": 306688000,
+        "image_name": "COCO_val2014_000000306688.jpg"
+    },
+    {
+        "image_id": 306688,
+        "question": "Are the napkins pastel or neon?",
+        "question_id": 306688001,
+        "image_name": "COCO_val2014_000000306688.jpg"
+    },
+    {
+        "image_id": 306688,
+        "question": "How many pizzas are on the table?",
+        "question_id": 306688002,
+        "image_name": "COCO_val2014_000000306688.jpg"
+    },
+    {
+        "image_id": 46245,
+        "question": "What is the animal doing?",
+        "question_id": 46245000,
+        "image_name": "COCO_val2014_000000046245.jpg"
+    },
+    {
+        "image_id": 46245,
+        "question": "What color is the bear's nose?",
+        "question_id": 46245001,
+        "image_name": "COCO_val2014_000000046245.jpg"
+    },
+    {
+        "image_id": 46245,
+        "question": "Is this polar bear cold?",
+        "question_id": 46245002,
+        "image_name": "COCO_val2014_000000046245.jpg"
+    },
+    {
+        "image_id": 46245,
+        "question": "What color is the bear's fur?",
+        "question_id": 46245003,
+        "image_name": "COCO_val2014_000000046245.jpg"
+    },
+    {
+        "image_id": 47732,
+        "question": "What color is the boys board?",
+        "question_id": 47732000,
+        "image_name": "COCO_val2014_000000047732.jpg"
+    },
+    {
+        "image_id": 47732,
+        "question": "What is the word on the surfboard?",
+        "question_id": 47732001,
+        "image_name": "COCO_val2014_000000047732.jpg"
+    },
+    {
+        "image_id": 47732,
+        "question": "What is on the boy's left ankle?",
+        "question_id": 47732002,
+        "image_name": "COCO_val2014_000000047732.jpg"
+    },
+    {
+        "image_id": 181627,
+        "question": "What website is on the phone's screen?",
+        "question_id": 181627000,
+        "image_name": "COCO_val2014_000000181627.jpg"
+    },
+    {
+        "image_id": 181627,
+        "question": "How many stripes are on the plate?",
+        "question_id": 181627001,
+        "image_name": "COCO_val2014_000000181627.jpg"
+    },
+    {
+        "image_id": 181627,
+        "question": "How many forks are in the photo?",
+        "question_id": 181627002,
+        "image_name": "COCO_val2014_000000181627.jpg"
+    },
+    {
+        "image_id": 181627,
+        "question": "What kind of glass is that?",
+        "question_id": 181627003,
+        "image_name": "COCO_val2014_000000181627.jpg"
+    },
+    {
+        "image_id": 181627,
+        "question": "What is that by the plate?",
+        "question_id": 181627004,
+        "image_name": "COCO_val2014_000000181627.jpg"
+    },
+    {
+        "image_id": 314836,
+        "question": "What are the white rings on the tire called?",
+        "question_id": 314836000,
+        "image_name": "COCO_val2014_000000314836.jpg"
+    },
+    {
+        "image_id": 314836,
+        "question": "Is this a new bus or an old bus?",
+        "question_id": 314836001,
+        "image_name": "COCO_val2014_000000314836.jpg"
+    },
+    {
+        "image_id": 314836,
+        "question": "What is written on the bus?",
+        "question_id": 314836002,
+        "image_name": "COCO_val2014_000000314836.jpg"
+    },
+    {
+        "image_id": 317147,
+        "question": "What kind of animal is this?",
+        "question_id": 317147000,
+        "image_name": "COCO_val2014_000000317147.jpg"
+    },
+    {
+        "image_id": 317147,
+        "question": "Does the food in the picture look delicious?",
+        "question_id": 317147001,
+        "image_name": "COCO_val2014_000000317147.jpg"
+    },
+    {
+        "image_id": 317147,
+        "question": "Is the cat going to eat the cookies?",
+        "question_id": 317147002,
+        "image_name": "COCO_val2014_000000317147.jpg"
+    },
+    {
+        "image_id": 317147,
+        "question": "What is the plate made of?",
+        "question_id": 317147003,
+        "image_name": "COCO_val2014_000000317147.jpg"
+    },
+    {
+        "image_id": 317147,
+        "question": "Where is plate placed?",
+        "question_id": 317147004,
+        "image_name": "COCO_val2014_000000317147.jpg"
+    },
+    {
+        "image_id": 317147,
+        "question": "What is on the plate?",
+        "question_id": 317147005,
+        "image_name": "COCO_val2014_000000317147.jpg"
+    },
+    {
+        "image_id": 56752,
+        "question": "What is on the person's back?",
+        "question_id": 56752000,
+        "image_name": "COCO_val2014_000000056752.jpg"
+    },
+    {
+        "image_id": 56752,
+        "question": "What kind of motor vehicle are they riding?",
+        "question_id": 56752001,
+        "image_name": "COCO_val2014_000000056752.jpg"
+    },
+    {
+        "image_id": 56752,
+        "question": "Where is the person riding?",
+        "question_id": 56752002,
+        "image_name": "COCO_val2014_000000056752.jpg"
+    },
+    {
+        "image_id": 56752,
+        "question": "What color is the helmet of the man wearing sunglasses?",
+        "question_id": 56752003,
+        "image_name": "COCO_val2014_000000056752.jpg"
+    },
+    {
+        "image_id": 56752,
+        "question": "Is the bicyclist in peak physical condition?",
+        "question_id": 56752004,
+        "image_name": "COCO_val2014_000000056752.jpg"
+    },
+    {
+        "image_id": 56752,
+        "question": "What color is the helmet?",
+        "question_id": 56752005,
+        "image_name": "COCO_val2014_000000056752.jpg"
+    },
+    {
+        "image_id": 56752,
+        "question": "What kind of landscape is this?",
+        "question_id": 56752006,
+        "image_name": "COCO_val2014_000000056752.jpg"
+    },
+    {
+        "image_id": 56752,
+        "question": "Is this a lake?",
+        "question_id": 56752007,
+        "image_name": "COCO_val2014_000000056752.jpg"
+    },
+    {
+        "image_id": 189015,
+        "question": "How many pastries are in this picture?",
+        "question_id": 189015000,
+        "image_name": "COCO_val2014_000000189015.jpg"
+    },
+    {
+        "image_id": 189015,
+        "question": "Are these items gluten free?",
+        "question_id": 189015001,
+        "image_name": "COCO_val2014_000000189015.jpg"
+    },
+    {
+        "image_id": 189015,
+        "question": "What type of cooking appliance is being used?",
+        "question_id": 189015002,
+        "image_name": "COCO_val2014_000000189015.jpg"
+    },
+    {
+        "image_id": 189015,
+        "question": "Does this appear sanitary?",
+        "question_id": 189015003,
+        "image_name": "COCO_val2014_000000189015.jpg"
+    },
+    {
+        "image_id": 451859,
+        "question": "What is marking off the different areas of the field?",
+        "question_id": 451859000,
+        "image_name": "COCO_val2014_000000451859.jpg"
+    },
+    {
+        "image_id": 451859,
+        "question": "What type of animal is depicted floating in the sky?",
+        "question_id": 451859001,
+        "image_name": "COCO_val2014_000000451859.jpg"
+    },
+    {
+        "image_id": 451859,
+        "question": "Do the kites make the sky look like it's under the sea?",
+        "question_id": 451859002,
+        "image_name": "COCO_val2014_000000451859.jpg"
+    },
+    {
+        "image_id": 451859,
+        "question": "How many kites do you see?",
+        "question_id": 451859003,
+        "image_name": "COCO_val2014_000000451859.jpg"
+    },
+    {
+        "image_id": 451859,
+        "question": "How many people are in the picture?",
+        "question_id": 451859004,
+        "image_name": "COCO_val2014_000000451859.jpg"
+    },
+    {
+        "image_id": 62060,
+        "question": "How many people are shown?",
+        "question_id": 62060000,
+        "image_name": "COCO_val2014_000000062060.jpg"
+    },
+    {
+        "image_id": 62060,
+        "question": "Is the terrain in the background flat?",
+        "question_id": 62060001,
+        "image_name": "COCO_val2014_000000062060.jpg"
+    },
+    {
+        "image_id": 62060,
+        "question": "What hairstyle are 2 of the women wearing?",
+        "question_id": 62060002,
+        "image_name": "COCO_val2014_000000062060.jpg"
+    },
+    {
+        "image_id": 62060,
+        "question": "Is there water near?",
+        "question_id": 62060003,
+        "image_name": "COCO_val2014_000000062060.jpg"
+    },
+    {
+        "image_id": 62889,
+        "question": "Is the fence intact?",
+        "question_id": 62889000,
+        "image_name": "COCO_val2014_000000062889.jpg"
+    },
+    {
+        "image_id": 62889,
+        "question": "Is there snow on the ground?",
+        "question_id": 62889001,
+        "image_name": "COCO_val2014_000000062889.jpg"
+    },
+    {
+        "image_id": 62889,
+        "question": "What is on the mountains?",
+        "question_id": 62889002,
+        "image_name": "COCO_val2014_000000062889.jpg"
+    },
+    {
+        "image_id": 62889,
+        "question": "What is in the background?",
+        "question_id": 62889003,
+        "image_name": "COCO_val2014_000000062889.jpg"
+    },
+    {
+        "image_id": 198495,
+        "question": "Does the company that made this bike make cars also?",
+        "question_id": 198495000,
+        "image_name": "COCO_val2014_000000198495.jpg"
+    },
+    {
+        "image_id": 198495,
+        "question": "Which symbol we can see on bike?",
+        "question_id": 198495001,
+        "image_name": "COCO_val2014_000000198495.jpg"
+    },
+    {
+        "image_id": 198495,
+        "question": "How much would a bike like this cost?",
+        "question_id": 198495002,
+        "image_name": "COCO_val2014_000000198495.jpg"
+    },
+    {
+        "image_id": 463134,
+        "question": "What color is the wall?",
+        "question_id": 463134000,
+        "image_name": "COCO_val2014_000000463134.jpg"
+    },
+    {
+        "image_id": 463134,
+        "question": "What word is on the yellow wall hanging?",
+        "question_id": 463134001,
+        "image_name": "COCO_val2014_000000463134.jpg"
+    },
+    {
+        "image_id": 463134,
+        "question": "Is it bright outside?",
+        "question_id": 463134002,
+        "image_name": "COCO_val2014_000000463134.jpg"
+    },
+    {
+        "image_id": 71023,
+        "question": "Is the light on?",
+        "question_id": 71023000,
+        "image_name": "COCO_val2014_000000071023.jpg"
+    },
+    {
+        "image_id": 71023,
+        "question": "What room is this?",
+        "question_id": 71023001,
+        "image_name": "COCO_val2014_000000071023.jpg"
+    },
+    {
+        "image_id": 71023,
+        "question": "What material is the table?",
+        "question_id": 71023002,
+        "image_name": "COCO_val2014_000000071023.jpg"
+    },
+    {
+        "image_id": 205716,
+        "question": "What is the white substance on the plate?",
+        "question_id": 205716000,
+        "image_name": "COCO_val2014_000000205716.jpg"
+    },
+    {
+        "image_id": 205716,
+        "question": "Is this Italian food?",
+        "question_id": 205716001,
+        "image_name": "COCO_val2014_000000205716.jpg"
+    },
+    {
+        "image_id": 205716,
+        "question": "How many plates are in the photo?",
+        "question_id": 205716002,
+        "image_name": "COCO_val2014_000000205716.jpg"
+    },
+    {
+        "image_id": 205716,
+        "question": "What utensils are shown?",
+        "question_id": 205716003,
+        "image_name": "COCO_val2014_000000205716.jpg"
+    },
+    {
+        "image_id": 205716,
+        "question": "Is the food hot?",
+        "question_id": 205716004,
+        "image_name": "COCO_val2014_000000205716.jpg"
+    },
+    {
+        "image_id": 474608,
+        "question": "What brand is the laptop?",
+        "question_id": 474608000,
+        "image_name": "COCO_val2014_000000474608.jpg"
+    },
+    {
+        "image_id": 474608,
+        "question": "How many people are singing?",
+        "question_id": 474608001,
+        "image_name": "COCO_val2014_000000474608.jpg"
+    },
+    {
+        "image_id": 474608,
+        "question": "Is this place crowded?",
+        "question_id": 474608002,
+        "image_name": "COCO_val2014_000000474608.jpg"
+    },
+    {
+        "image_id": 474608,
+        "question": "What brand name is on the cup near the dj's hand?",
+        "question_id": 474608003,
+        "image_name": "COCO_val2014_000000474608.jpg"
+    },
+    {
+        "image_id": 474608,
+        "question": "What is the man on the left doing with the mic?",
+        "question_id": 474608004,
+        "image_name": "COCO_val2014_000000474608.jpg"
+    },
+    {
+        "image_id": 474608,
+        "question": "What color is the lighting?",
+        "question_id": 474608005,
+        "image_name": "COCO_val2014_000000474608.jpg"
+    },
+    {
+        "image_id": 83013,
+        "question": "What animal is in the picture?",
+        "question_id": 83013000,
+        "image_name": "COCO_val2014_000000083013.jpg"
+    },
+    {
+        "image_id": 83013,
+        "question": "What is the elephant eating?",
+        "question_id": 83013001,
+        "image_name": "COCO_val2014_000000083013.jpg"
+    },
+    {
+        "image_id": 83013,
+        "question": "How many people are in the picture?",
+        "question_id": 83013002,
+        "image_name": "COCO_val2014_000000083013.jpg"
+    },
+    {
+        "image_id": 83013,
+        "question": "What is the animal doing?",
+        "question_id": 83013003,
+        "image_name": "COCO_val2014_000000083013.jpg"
+    },
+    {
+        "image_id": 476552,
+        "question": "What is this woman holding?",
+        "question_id": 476552000,
+        "image_name": "COCO_val2014_000000476552.jpg"
+    },
+    {
+        "image_id": 476552,
+        "question": "What type of fruit are these people working with?",
+        "question_id": 476552001,
+        "image_name": "COCO_val2014_000000476552.jpg"
+    },
+    {
+        "image_id": 476552,
+        "question": "What are the people sitting in?",
+        "question_id": 476552002,
+        "image_name": "COCO_val2014_000000476552.jpg"
+    },
+    {
+        "image_id": 476856,
+        "question": "What kind of cat is this?",
+        "question_id": 476856000,
+        "image_name": "COCO_val2014_000000476856.jpg"
+    },
+    {
+        "image_id": 476856,
+        "question": "Where is the cat?",
+        "question_id": 476856001,
+        "image_name": "COCO_val2014_000000476856.jpg"
+    },
+    {
+        "image_id": 476856,
+        "question": "Does this cat like dry cat food?",
+        "question_id": 476856002,
+        "image_name": "COCO_val2014_000000476856.jpg"
+    },
+    {
+        "image_id": 476856,
+        "question": "What will happen to the green object if the cat knocks it off the high table?",
+        "question_id": 476856003,
+        "image_name": "COCO_val2014_000000476856.jpg"
+    },
+    {
+        "image_id": 476856,
+        "question": "Is the cup made of glass?",
+        "question_id": 476856004,
+        "image_name": "COCO_val2014_000000476856.jpg"
+    },
+    {
+        "image_id": 476856,
+        "question": "Does the cat want to drink out of the cup?",
+        "question_id": 476856005,
+        "image_name": "COCO_val2014_000000476856.jpg"
+    },
+    {
+        "image_id": 215259,
+        "question": "How many people in this scene are having a good time?",
+        "question_id": 215259000,
+        "image_name": "COCO_val2014_000000215259.jpg"
+    },
+    {
+        "image_id": 215259,
+        "question": "What are they doing?",
+        "question_id": 215259001,
+        "image_name": "COCO_val2014_000000215259.jpg"
+    },
+    {
+        "image_id": 215259,
+        "question": "What color is the woman's top?",
+        "question_id": 215259002,
+        "image_name": "COCO_val2014_000000215259.jpg"
+    },
+    {
+        "image_id": 215259,
+        "question": "Are 2 children playing the Wii?",
+        "question_id": 215259003,
+        "image_name": "COCO_val2014_000000215259.jpg"
+    },
+    {
+        "image_id": 215259,
+        "question": "What is the girl's pants color?",
+        "question_id": 215259004,
+        "image_name": "COCO_val2014_000000215259.jpg"
+    },
+    {
+        "image_id": 215259,
+        "question": "What color is the wall?",
+        "question_id": 215259005,
+        "image_name": "COCO_val2014_000000215259.jpg"
+    },
+    {
+        "image_id": 215259,
+        "question": "Does the carpet have stains?",
+        "question_id": 215259006,
+        "image_name": "COCO_val2014_000000215259.jpg"
+    },
+    {
+        "image_id": 88513,
+        "question": "What does it say on the side of the turk?",
+        "question_id": 88513000,
+        "image_name": "COCO_val2014_000000088513.jpg"
+    },
+    {
+        "image_id": 88513,
+        "question": "How many windows are there?",
+        "question_id": 88513001,
+        "image_name": "COCO_val2014_000000088513.jpg"
+    },
+    {
+        "image_id": 88513,
+        "question": "Is that a bike at the corner?",
+        "question_id": 88513002,
+        "image_name": "COCO_val2014_000000088513.jpg"
+    },
+    {
+        "image_id": 88513,
+        "question": "Are there any windows open on the building?",
+        "question_id": 88513003,
+        "image_name": "COCO_val2014_000000088513.jpg"
+    },
+    {
+        "image_id": 229096,
+        "question": "Is this during the winter?",
+        "question_id": 229096000,
+        "image_name": "COCO_val2014_000000229096.jpg"
+    },
+    {
+        "image_id": 229096,
+        "question": "What color is the bus?",
+        "question_id": 229096001,
+        "image_name": "COCO_val2014_000000229096.jpg"
+    },
+    {
+        "image_id": 229096,
+        "question": "Is the man on the poster handsome?",
+        "question_id": 229096002,
+        "image_name": "COCO_val2014_000000229096.jpg"
+    },
+    {
+        "image_id": 229096,
+        "question": "What is the bus company?",
+        "question_id": 229096003,
+        "image_name": "COCO_val2014_000000229096.jpg"
+    },
+    {
+        "image_id": 229096,
+        "question": "What is the name of the bus?",
+        "question_id": 229096004,
+        "image_name": "COCO_val2014_000000229096.jpg"
+    },
+    {
+        "image_id": 229096,
+        "question": "What is the first letter of the second word on this bus advertisement?",
+        "question_id": 229096005,
+        "image_name": "COCO_val2014_000000229096.jpg"
+    },
+    {
+        "image_id": 229324,
+        "question": "Which part of the kitchen looks to be specifically for prep space?",
+        "question_id": 229324000,
+        "image_name": "COCO_val2014_000000229324.jpg"
+    },
+    {
+        "image_id": 229324,
+        "question": "Is anyone cooking in this kitchen?",
+        "question_id": 229324001,
+        "image_name": "COCO_val2014_000000229324.jpg"
+    },
+    {
+        "image_id": 229324,
+        "question": "What room is photographed?",
+        "question_id": 229324002,
+        "image_name": "COCO_val2014_000000229324.jpg"
+    },
+    {
+        "image_id": 109939,
+        "question": "What is the number on the front of the bus?",
+        "question_id": 109939000,
+        "image_name": "COCO_val2014_000000109939.jpg"
+    },
+    {
+        "image_id": 109939,
+        "question": "How many cones can you see?",
+        "question_id": 109939001,
+        "image_name": "COCO_val2014_000000109939.jpg"
+    },
+    {
+        "image_id": 109939,
+        "question": "Is the bus passing through an intersection?",
+        "question_id": 109939002,
+        "image_name": "COCO_val2014_000000109939.jpg"
+    },
+    {
+        "image_id": 109939,
+        "question": "What is the number on the bus?",
+        "question_id": 109939003,
+        "image_name": "COCO_val2014_000000109939.jpg"
+    },
+    {
+        "image_id": 281950,
+        "question": "Is there a lid on the toilet?",
+        "question_id": 281950000,
+        "image_name": "COCO_val2014_000000281950.jpg"
+    },
+    {
+        "image_id": 281950,
+        "question": "Would you use this toilet?",
+        "question_id": 281950001,
+        "image_name": "COCO_val2014_000000281950.jpg"
+    },
+    {
+        "image_id": 281950,
+        "question": "What type of flooring is in this room?",
+        "question_id": 281950002,
+        "image_name": "COCO_val2014_000000281950.jpg"
+    },
+    {
+        "image_id": 384794,
+        "question": "What time does the clock in the center of the picture read?",
+        "question_id": 384794000,
+        "image_name": "COCO_val2014_000000384794.jpg"
+    },
+    {
+        "image_id": 384794,
+        "question": "Is this a country road?",
+        "question_id": 384794001,
+        "image_name": "COCO_val2014_000000384794.jpg"
+    },
+    {
+        "image_id": 384794,
+        "question": "How many clock faces are on this structure?",
+        "question_id": 384794002,
+        "image_name": "COCO_val2014_000000384794.jpg"
+    },
+    {
+        "image_id": 517570,
+        "question": "How many boats are here?",
+        "question_id": 517570000,
+        "image_name": "COCO_val2014_000000517570.jpg"
+    },
+    {
+        "image_id": 517570,
+        "question": "Will the man fall?",
+        "question_id": 517570001,
+        "image_name": "COCO_val2014_000000517570.jpg"
+    },
+    {
+        "image_id": 517570,
+        "question": "What time of day is it?",
+        "question_id": 517570002,
+        "image_name": "COCO_val2014_000000517570.jpg"
+    },
+    {
+        "image_id": 517570,
+        "question": "What is this man doing?",
+        "question_id": 517570003,
+        "image_name": "COCO_val2014_000000517570.jpg"
+    },
+    {
+        "image_id": 258021,
+        "question": "What type of vehicle does the woman have?",
+        "question_id": 258021000,
+        "image_name": "COCO_val2014_000000258021.jpg"
+    },
+    {
+        "image_id": 258021,
+        "question": "What color is the Guardrail?",
+        "question_id": 258021001,
+        "image_name": "COCO_val2014_000000258021.jpg"
+    },
+    {
+        "image_id": 258021,
+        "question": "What color is the curb below the stop sign?",
+        "question_id": 258021002,
+        "image_name": "COCO_val2014_000000258021.jpg"
+    },
+    {
+        "image_id": 258021,
+        "question": "Is it raining?",
+        "question_id": 258021003,
+        "image_name": "COCO_val2014_000000258021.jpg"
+    },
+    {
+        "image_id": 127530,
+        "question": "Is this a forehand or a backhand swing?",
+        "question_id": 127530000,
+        "image_name": "COCO_val2014_000000127530.jpg"
+    },
+    {
+        "image_id": 127530,
+        "question": "What game is being played?",
+        "question_id": 127530001,
+        "image_name": "COCO_val2014_000000127530.jpg"
+    },
+    {
+        "image_id": 127530,
+        "question": "What color shirt is the guy wearing?",
+        "question_id": 127530002,
+        "image_name": "COCO_val2014_000000127530.jpg"
+    },
+    {
+        "image_id": 127530,
+        "question": "Will this man catch the ball?",
+        "question_id": 127530003,
+        "image_name": "COCO_val2014_000000127530.jpg"
+    },
+    {
+        "image_id": 390130,
+        "question": "Are they downhill skiers or cross country skiers?",
+        "question_id": 390130000,
+        "image_name": "COCO_val2014_000000390130.jpg"
+    },
+    {
+        "image_id": 390130,
+        "question": "What covers the ground?",
+        "question_id": 390130001,
+        "image_name": "COCO_val2014_000000390130.jpg"
+    },
+    {
+        "image_id": 390130,
+        "question": "Where are the people in the picture?",
+        "question_id": 390130002,
+        "image_name": "COCO_val2014_000000390130.jpg"
+    },
+    {
+        "image_id": 390130,
+        "question": "What season is it?",
+        "question_id": 390130003,
+        "image_name": "COCO_val2014_000000390130.jpg"
+    },
+    {
+        "image_id": 390130,
+        "question": "Are there trees in the background?",
+        "question_id": 390130004,
+        "image_name": "COCO_val2014_000000390130.jpg"
+    },
+    {
+        "image_id": 390130,
+        "question": "Is there lots of snow?",
+        "question_id": 390130005,
+        "image_name": "COCO_val2014_000000390130.jpg"
+    }
+]
